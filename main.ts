@@ -54,6 +54,7 @@ while (next) {
   });
   rick.push(...allRicks);
   next = data.info.next;
+  
 }
 
 console.log(rick);
